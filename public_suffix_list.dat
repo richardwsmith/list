@@ -1003,7 +1003,10 @@ gw
 gy
 co.gy
 com.gy
+edu.gy
+gov.gy
 net.gy
+org.gy
 
 // hk : https://www.hkdnr.hk
 // Submitted by registry <hk.tech@hkirc.hk> 2008-06-11
@@ -6135,10 +6138,6 @@ net.to
 org.to
 edu.to
 mil.to
-
-// tp : No registrations at this time.
-// Submitted by Ryan Sleevi <ryan.sleevi@gmail.com> 2014-01-03
-tp
 
 // subTLDs: https://www.nic.tr/forms/eng/policies.pdf
 //     and: https://www.nic.tr/forms/politikalar.pdf
