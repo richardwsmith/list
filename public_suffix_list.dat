@@ -6821,7 +6821,7 @@ org.zw
 
 // newGTLDs
 
-// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-02-18T15:51:43Z
+// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-10-03T18:32:38Z
 // This list is auto-generated, don't edit it manually.
 // aaa : American Automobile Association, Inc.
 // https://www.iana.org/domains/root/db/aaa.html
@@ -7007,7 +7007,7 @@ anquan
 // https://www.iana.org/domains/root/db/anz.html
 anz
 
-// aol : Yahoo Inc.
+// aol : AOL Media LLC
 // https://www.iana.org/domains/root/db/aol.html
 aol
 
@@ -7563,7 +7563,7 @@ church
 // https://www.iana.org/domains/root/db/cipriani.html
 cipriani
 
-// circle : Amazon Registry Services, Inc.
+// circle : Jolly Host, LLC
 // https://www.iana.org/domains/root/db/circle.html
 circle
 
@@ -7639,7 +7639,7 @@ coffee
 // https://www.iana.org/domains/root/db/college.html
 college
 
-// cologne : dotKoeln GmbH
+// cologne : domainworx Service & Management GmbH
 // https://www.iana.org/domains/root/db/cologne.html
 cologne
 
@@ -8415,7 +8415,7 @@ google
 // https://www.iana.org/domains/root/db/gop.html
 gop
 
-// got : Amazon Registry Services, Inc.
+// got : Jolly Host, LLC
 // https://www.iana.org/domains/root/db/got.html
 got
 
@@ -8787,7 +8787,7 @@ jnj
 // https://www.iana.org/domains/root/db/joburg.html
 joburg
 
-// jot : Amazon Registry Services, Inc.
+// jot : Jolly Host, LLC
 // https://www.iana.org/domains/root/db/jot.html
 jot
 
@@ -8806,10 +8806,6 @@ jprs
 // juegos : Dog Beach, LLC
 // https://www.iana.org/domains/root/db/juegos.html
 juegos
-
-// juniper : JUNIPER NETWORKS, INC.
-// https://www.iana.org/domains/root/db/juniper.html
-juniper
 
 // kaufen : Dog Beach, LLC
 // https://www.iana.org/domains/root/db/kaufen.html
@@ -8855,7 +8851,7 @@ kitchen
 // https://www.iana.org/domains/root/db/kiwi.html
 kiwi
 
-// koeln : dotKoeln GmbH
+// koeln : domainworx Service & Management GmbH
 // https://www.iana.org/domains/root/db/koeln.html
 koeln
 
@@ -8887,7 +8883,7 @@ kred
 // https://www.iana.org/domains/root/db/kuokgroup.html
 kuokgroup
 
-// kyoto : Academic Institution: Kyoto Jyoho Gakuen
+// kyoto : Academic Institution: The University of Informatics
 // https://www.iana.org/domains/root/db/kyoto.html
 kyoto
 
@@ -9923,7 +9919,7 @@ saarland
 // https://www.iana.org/domains/root/db/safe.html
 safe
 
-// safety : Safety Registry Services, LLC.
+// safety : Jolly Host, LLC
 // https://www.iana.org/domains/root/db/safety.html
 safety
 
@@ -10715,6 +10711,10 @@ weather
 // https://www.iana.org/domains/root/db/weatherchannel.html
 weatherchannel
 
+// web : VeriSign, Inc.
+// https://www.iana.org/domains/root/db/web.html
+web
+
 // webcam : dot Webcam Limited
 // https://www.iana.org/domains/root/db/webcam.html
 webcam
@@ -10875,7 +10875,7 @@ xin
 // https://www.iana.org/domains/root/db/xn--5su34j936bgsg.html
 香格里拉
 
-// xn--5tzm5g : Global Website TLD Asia Limited
+// xn--5tzm5g : Jolly Host, LLC
 // https://www.iana.org/domains/root/db/xn--5tzm5g.html
 网站
 
